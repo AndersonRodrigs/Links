@@ -8,6 +8,10 @@
   text-decoration: none;
 }
 
+.load-hidden {
+  visibility: hidden;
+}
+
 html,
 body {
   width: 100%;
@@ -19,6 +23,7 @@ body {
   background: #182643;
   background-repeat: no-repeat;
 }
+
 
 .container {
   font-family: 'Inter', sans-serif;
