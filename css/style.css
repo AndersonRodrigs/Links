@@ -92,7 +92,7 @@ body {
 
 .links-content ul {
   width: 100%;
-  max-width: 400px;
+  max-width: 370px;
 
   display: flex;
   flex-direction: column;
@@ -116,7 +116,7 @@ body {
   font-weight: 600;
 
   gap: 10px;
-  padding: 14px;
+  padding: 12px;
 
   border-radius: 10px;
   border: 2px solid #525d6f00;
