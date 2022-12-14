@@ -1,6 +1,6 @@
 ScrollReveal({
   origin: 'left',
-  distance: '100px',
+  distance: '150px',
   duration: 1500,
 
 }).reveal(`li a, .image-header-content`, { interval: 100 })
