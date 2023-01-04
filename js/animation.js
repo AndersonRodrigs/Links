@@ -3,7 +3,7 @@ ScrollReveal({
   distance: '150px',
   duration: 1500,
 
-}).reveal(`li a, .image-header-content`, { interval: 100 })
+}).reveal(`li a`, { interval: 100 })
 
 ScrollReveal({
   origin: 'top',
@@ -11,3 +11,10 @@ ScrollReveal({
   duration: 1500,
 
 }).reveal(`.info`, { interval: 100 })
+
+ScrollReveal({
+  origin: 'bottom',
+  distance: '30px',
+  duration: 1500,
+
+}).reveal(`footer p`, { interval: 100 })
