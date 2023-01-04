@@ -53,7 +53,7 @@ body {
   gap: 20px;
   padding-inline: 20px;
 
-  bottom: 55px;
+  bottom: 58px;
 }
 
 .info .content-img {
@@ -116,7 +116,7 @@ body {
   font-weight: 600;
 
   gap: 10px;
-  padding: 12px;
+  padding: 8px;
 
   border-radius: 10px;
   border: 2px solid #525d6f00;
@@ -136,8 +136,9 @@ body {
   transition: 0.4s;
 }
 
-.link i {
-  font-size: 26px;
+.link svg {
+  height: 35px;
+  width: 35px;
 }
 
 .links-content ul li a:hover {
